@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Tenaris.Service.Web.Search.SearchService" CodeBehind="SearchService.svc.cs" %>
