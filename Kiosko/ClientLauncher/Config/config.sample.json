@@ -1,0 +1,166 @@
+{
+  "Applications": [
+    {
+      "Name": "Cdim",
+      "Sources": [
+        "\\\\TNACAWFM190.tnsautoca.techint.net\\Appls\\Clientes\\Cdim"
+      ],
+      "Destination": "D:\\Appls",
+
+      "ExeFile": "D:\\Appls\\Tenaris\\Applications\\View\\Desktop\\Tenaris.View.Desktop.exe",
+	
+      "AssignedUsers": [
+        "TNSAUTOCA\\\\SvcAppTamL2CfLPCdim",
+        "TNSAUTOCA\\\\T20865a",
+		"TNSAUTOCA\\\\T20864a",
+		"TNSAUTOCA\\\\T20816a",
+		"tnsautoca\\\\18026108a",
+"tnsautoca\\\\60079225a",
+"tnsautoca\\\\18027048i",
+"tnsautoca\\\\60040075i",
+"tnsautoca\\\\60029703i",
+"tnsautoca\\\\60069322i",
+"tnsautoca\\\\60033179i",
+"tnsautoca\\\\60048022i",
+"tnsautoca\\\\60086641i",
+"tnsautoca\\\\60083171i",
+"tnsautoca\\\\60067139i",
+"tnsautoca\\\\60066948i",
+"tnsautoca\\\\60047293i"
+
+		
+		
+      ]
+    },
+    {
+      "Name": "Entry",
+      "Sources": [
+        "\\\\TNACAWFM190.tnsautoca.techint.net\\Appls\\Clientes\\Entrada"
+      ],
+      "Destination": "D:\\Appls",
+      "ExeFile": "D:\\Appls\\Tenaris\\Applications\\View\\Desktop\\Tenaris.View.Desktop.exe",
+      "AssignedUsers": [
+        "TNSAUTOCA\\\\SvcAppTamL2CfLPEntry",
+        "TNSAUTOCA\\\\T20865a",
+		"TNSAUTOCA\\\\T20864a",
+		"TNSAUTOCA\\\\T20816a",
+		"tnsautoca\\\\60079225a",
+"tnsautoca\\\\18027048i",
+"tnsautoca\\\\60040075i",
+"tnsautoca\\\\60029703i",
+"tnsautoca\\\\60069322i",
+"tnsautoca\\\\60033179i",
+"tnsautoca\\\\60048022i",
+"tnsautoca\\\\60086641i",
+"tnsautoca\\\\60083171i",
+"tnsautoca\\\\60067139i",
+"tnsautoca\\\\60066948i",
+"tnsautoca\\\\60047293i"
+      ]
+    },
+    {
+      "Name": "Lems",
+      "Sources": [
+        "\\\\TNACAWFM190.tnsautoca.techint.net\\Appls\\Clientes\\Lems"
+      ],
+      "Destination": "D:\\Appls",
+      "ExeFile": "D:\\Appls\\Tenaris\\Applications\\View\\Desktop\\Tenaris.View.Desktop.exe",
+      "AssignedUsers": [
+        "TNSAUTOCA\\\\SvcAppTamL2CfLPLems",
+        "TNSAUTOCA\\\\T20865a",
+		"TNSAUTOCA\\\\T20864a",
+		"TNSAUTOCA\\\\T20816a",
+		"tnsautoca\\\\60079225a",
+"tnsautoca\\\\18027048i",
+"tnsautoca\\\\60040075i",
+"tnsautoca\\\\60029703i",
+"tnsautoca\\\\60069322i",
+"tnsautoca\\\\60033179i",
+"tnsautoca\\\\60048022i",
+"tnsautoca\\\\60086641i",
+"tnsautoca\\\\60083171i",
+"tnsautoca\\\\60067139i",
+"tnsautoca\\\\60066948i",
+"tnsautoca\\\\60047293i"
+      ]
+    },
+    {
+      "Name": "Sea",
+      "Sources": [
+        "\\\\TNACAWFM190.tnsautoca.techint.net\\Appls\\Clientes\\Sea"
+      ],
+      "Destination": "D:\\Appls",
+      "ExeFile": "D:\\Appls\\Tenaris\\Applications\\View\\Desktop\\Tenaris.View.Desktop.exe",
+      "AssignedUsers": [
+        "TNSAUTOCA\\\\SvcAppTamL2CfLPSea",
+        "TNSAUTOCA\\\\T20865a",
+		"TNSAUTOCA\\\\T20864a",
+		"TNSAUTOCA\\\\T20816a",
+		"tnsautoca\\\\60079225a",
+"tnsautoca\\\\18027048i",
+"tnsautoca\\\\60040075i",
+"tnsautoca\\\\60029703i",
+"tnsautoca\\\\60069322i",
+"tnsautoca\\\\60033179i",
+"tnsautoca\\\\60048022i",
+"tnsautoca\\\\60086641i",
+"tnsautoca\\\\60083171i",
+"tnsautoca\\\\60067139i",
+"tnsautoca\\\\60066948i",
+"tnsautoca\\\\60047293i"
+      ]
+    },
+    {
+      "Name": "Ope01",
+      "Sources": [
+        "\\\\TNACAWFM190.tnsautoca.techint.net\\Appls\\Clientes\\Ope01"
+      ],
+      "Destination": "D:\\Appls",
+      "ExeFile": "D:\\Appls\\Tenaris\\Applications\\View\\Desktop\\Tenaris.View.Desktop.exe",
+      "AssignedUsers": [
+        "TNSAUTOCA\\\\SvcAppTamL2CfLPOpe01",
+        "TNSAUTOCA\\\\T20865a",
+		"TNSAUTOCA\\\\T20864a",
+		"TNSAUTOCA\\\\T20816a",
+		"tnsautoca\\\\60079225a",
+"tnsautoca\\\\18027048i",
+"tnsautoca\\\\60040075i",
+"tnsautoca\\\\60029703i",
+"tnsautoca\\\\60069322i",
+"tnsautoca\\\\60033179i",
+"tnsautoca\\\\60048022i",
+"tnsautoca\\\\60086641i",
+"tnsautoca\\\\60083171i",
+"tnsautoca\\\\60067139i",
+"tnsautoca\\\\60066948i",
+"tnsautoca\\\\60047293i"
+      ]
+    },
+    {
+      "Name": "Ope02",
+      "Sources": [
+        "\\\\TNACAWFM190.tnsautoca.techint.net\\Appls\\Clientes\\Ope02"
+      ],
+      "Destination": "D:\\Appls",
+      "ExeFile": "D:\\Appls\\Tenaris\\Applications\\View\\Desktop\\Tenaris.View.Desktop.exe",
+      "AssignedUsers": [
+        "TNSAUTOCA\\\\SvcAppTamL2CfLPOpe02",
+        "TNSAUTOCA\\\\T20865a",
+		"TNSAUTOCA\\\\T20864a",
+		"TNSAUTOCA\\\\T20816a",
+		"tnsautoca\\\\60079225a",
+"tnsautoca\\\\18027048i",
+"tnsautoca\\\\60040075i",
+"tnsautoca\\\\60029703i",
+"tnsautoca\\\\60069322i",
+"tnsautoca\\\\60033179i",
+"tnsautoca\\\\60048022i",
+"tnsautoca\\\\60086641i",
+"tnsautoca\\\\60083171i",
+"tnsautoca\\\\60067139i",
+"tnsautoca\\\\60066948i",
+"tnsautoca\\\\60047293i"
+      ]
+    }
+  ]
+}

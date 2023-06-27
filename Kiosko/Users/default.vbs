@@ -1,0 +1,1 @@
+Wscript.Echo "No hay un script asociado a tu usuario. Por favor, contactarse con Soporte IT"
